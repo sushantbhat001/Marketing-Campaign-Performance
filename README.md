@@ -14,7 +14,7 @@ A complete data analytics project analyzing digital marketing campaign performan
 - `screenshots/` – Visual of dashboard
 
 ## 📌 Key Insights
-- Campaign C006 yielded the highest ROI (220%+)
+- Campaign C010 yielded the highest ROI (220%+)
 - Social Media generated the most impressions
 - Paid Ads had the highest revenue conversion rate
 
