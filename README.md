@@ -22,4 +22,4 @@ A complete data analytics project analyzing digital marketing campaign performan
 ![Dashboard Preview](screenshots/dashboard_view.png)
 
 ## 📬 Contact
-Feel free to reach out if you want to collaborate or learn more!
+Sushant Bhat | sushantbhat001@gmail.com
